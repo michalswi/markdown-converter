@@ -9,3 +9,12 @@
 markdown-converter tool converts **markdown** files into **pdf** files
 
 </div>
+
+### \# how to run
+```
+go run . input.md output.pdf
+
+OR
+
+./markdown-converter_macos_arm64 input.md output.pdf
+```
